@@ -1,11 +1,13 @@
-// CHALLENGE NAME-  RETURNING STRINGS
+// CHALLENGE NAME-  RETURNING STRINGS  (#2)
 
 // DESCRIPTION:
 
-// Make a function that will return a greeting statement that uses an input; your program should 
-// return, "Hello, <name> how are you doing today?".
+// Make a function that will return a greeting statement that 
+// uses an input; your program should return, "Hello, <name> how 
+// are you doing today?".
 
-// [Make sure you type the exact thing I wrote or the program may not execute properly]
+// [Make sure you type the exact thing I wrote or the program may 
+// not execute properly]
 
 
 // ***STARTER CODE***
@@ -29,3 +31,6 @@
  
 // ******MY ANSWER********
 
+function greet(name){
+ return `Hello, ${name} how are you doing today?`   //your code here
+  }
