@@ -42,3 +42,5 @@ function arr2bin(arr){
     return a.toString(a)
         // show me the code
       } 
+
+    //   ***answer is not correct
